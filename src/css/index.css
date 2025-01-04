@@ -129,3 +129,14 @@ font-size: 1rem;
     margin: 0 15px 15px;
     margin-right: 37px;
 }
+.collections{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    margin-top: 110px;
+    margin-right: 56rem;
+}
+.collections h1 {
+    font-size: 3rem;
+    font-weight: 100;
+}
