@@ -135,8 +135,21 @@ font-size: 1rem;
     justify-content: center;
     margin-top: 110px;
     margin-right: 56rem;
+    flex-direction: column;
 }
 .collections h1 {
     font-size: 3rem;
     font-weight: 100;
+}
+
+.para{
+        display: flex;
+        margin-left: 7rem;
+        font-size: 21px;
+        font-family: 'Roboto';
+        flex-direction: row;
+}
+.para span{
+ margin-left: 155px;
+ color: red;
 }
